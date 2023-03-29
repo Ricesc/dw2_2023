@@ -1,4 +1,4 @@
-console.log("Tarea 03")
+console.log("Tarea 03");
 var palabra = "Reconocer";
 
 function palindromo (string){
@@ -10,7 +10,7 @@ function palindromo (string){
     if(reverseStr === string){
         console.log("Sí es un palindromo");
     } else{
-        console.log("No es un palindromo")
+        console.log("No es un palindromo");
     }
 }
 palindromo(palabra);

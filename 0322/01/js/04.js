@@ -1,9 +1,9 @@
-console.log("Tarea 04")
-var arreglo = [1,2,3,4,5]
+console.log("Tarea 04");
+var arreglo = [1,2,3,4,5];
 
-console.log(arreglo)
+console.log(arreglo);
 
-console.log("Elige un valor para reemplazar")
+console.log("Elige un valor para reemplazar");
 
 function reemplazarValor(array,valor,nuevoValor){
     

@@ -1,4 +1,4 @@
-console.log("Tarea 02")
+console.log("Tarea 02");
 
 function numerosPares(num){
     let array=[];
